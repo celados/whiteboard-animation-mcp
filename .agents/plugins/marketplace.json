@@ -1,0 +1,20 @@
+{
+  "name": "whiteboard-animation",
+  "interface": {
+    "displayName": "Whiteboard Animation"
+  },
+  "plugins": [
+    {
+      "name": "whiteboard-animation",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Design"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "whiteboard-animation",
+  "version": "1.0.0",
+  "description": "The Whiteboard Animation MCP server and a skill that turns pictures into hand-drawn whiteboard animation videos.",
+  "author": {
+    "name": "WhiteboardAnimation.ai",
+    "url": "https://whiteboardanimation.ai",
+    "email": "hello@whiteboardanimation.ai"
+  },
+  "homepage": "https://whiteboardanimation.ai/mcp",
+  "repository": "https://github.com/celados/whiteboard-animation-mcp",
+  "license": "MIT",
+  "keywords": [
+    "whiteboard-animation",
+    "mcp",
+    "video",
+    "animation",
+    "drawing",
+    "image-to-video"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./mcp.json",
+  "interface": {
+    "displayName": "Whiteboard Animation",
+    "shortDescription": "Turn pictures into hand-drawn whiteboard animation videos",
+    "longDescription": "Give Codex a picture, or a whole folder of them, and Whiteboard Animation draws each one stroke by stroke as a hand-drawn whiteboard video: sketch first, then colour, with or without a hand. Codex can quote the cost, start the drawings, follow them to completion and render them as MP4, transparent WebM or PNG. Sign in once with your WhiteboardAnimation.ai account; new accounts get free credits.",
+    "developerName": "WhiteboardAnimation.ai",
+    "category": "Design",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://whiteboardanimation.ai/mcp",
+    "privacyPolicyURL": "https://whiteboardanimation.ai/privacy",
+    "termsOfServiceURL": "https://whiteboardanimation.ai/terms",
+    "defaultPrompt": [
+      "Draw every picture in ./scenes as a whiteboard animation and save the MP4s to ./clips.",
+      "Turn this diagram into a whiteboard animation for a lesson, drawn with a right hand.",
+      "How many Whiteboard Animation credits do I have left?"
+    ],
+    "brandColor": "#C8462B",
+    "composerIcon": "./assets/logo.png",
+    "logo": "./assets/logo.png"
+  }
+}

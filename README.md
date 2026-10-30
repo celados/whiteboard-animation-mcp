@@ -134,7 +134,16 @@ Start it from the MCP servers list and sign in when asked.
 </details>
 
 <details>
-<summary><b>Codex</b></summary>
+<summary><b>Codex</b> (CLI and the ChatGPT desktop app)</summary>
+
+As a plugin, which adds the server and the skill:
+
+```sh
+codex plugin marketplace add celados/whiteboard-animation-mcp
+codex plugin add whiteboard-animation@whiteboard-animation
+```
+
+Or as an MCP server only:
 
 ```sh
 codex mcp add whiteboard-animation --url https://mcp.whiteboardanimation.ai/mcp
