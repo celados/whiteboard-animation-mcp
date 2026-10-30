@@ -10,11 +10,11 @@
 </p>
 
 <p align="center">
-  <a href="https://registry.modelcontextprotocol.io/v0.1/servers?search=ai.whiteboardanimation"><img src="https://img.shields.io/badge/MCP_Registry-ai.whiteboardanimation-111111?logo=modelcontextprotocol&logoColor=white" alt="MCP Registry"></a>
-  <img src="https://img.shields.io/badge/Transport-Streamable_HTTP-111111" alt="Streamable HTTP">
-  <img src="https://img.shields.io/badge/Auth-OAuth_2.1-C8462B" alt="OAuth 2.1">
-  <img src="https://img.shields.io/badge/API_key-not_needed-C8462B" alt="No API key">
-  <a href="LICENSE"><img src="https://img.shields.io/github/license/celados/whiteboard-animation-mcp?color=111111" alt="MIT"></a>
+  <a href="https://registry.modelcontextprotocol.io/v0.1/servers?search=ai.whiteboardanimation"><img src="assets/badges/mcp-registry.svg" alt="MCP Registry"></a>
+  <img src="assets/badges/streamable-http.svg" alt="Streamable HTTP">
+  <img src="assets/badges/oauth-2-1.svg" alt="OAuth 2.1">
+  <img src="assets/badges/no-api-key.svg" alt="No API key">
+  <a href="LICENSE"><img src="assets/badges/mit.svg" alt="MIT"></a>
 </p>
 
 <p align="center">
@@ -36,19 +36,19 @@ The server is hosted at **`https://mcp.whiteboardanimation.ai/mcp`**. There is n
 <table>
   <tr>
     <td align="center" width="25%">
-      <a href="https://claude.ai/customize/connectors?modal=add-custom-connector&connectorName=Whiteboard%20Animation&connectorUrl=https%3A%2F%2Fmcp.whiteboardanimation.ai%2Fmcp"><img src="https://img.shields.io/badge/Add%20to%20Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Add to Claude"></a>
+      <a href="https://claude.ai/customize/connectors?modal=add-custom-connector&connectorName=Whiteboard%20Animation&connectorUrl=https%3A%2F%2Fmcp.whiteboardanimation.ai%2Fmcp"><img src="assets/badges/add-to-claude.svg" alt="Add to Claude"></a>
       <br><sub>Claude on the web and desktop.<br>Fills in the custom connector.</sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://chatgpt.com/plugins"><img src="https://img.shields.io/badge/Add%20to%20ChatGPT-10A37F?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI%2BPHBhdGggZD0iTTIwLjU2MiAxMC4xODhjLjI1LS42ODguMzEzLTEuMzc2LjI1LTIuMDYzYy0uMDYyLS42ODctLjMxMi0xLjM3NS0uNjI1LTJjLS41NjItLjkzNy0xLjM3NS0xLjY4Ny0yLjMxMi0yLjEyNWMtMS0uNDM3LTIuMDYzLS41NjItMy4xMjUtLjMxMmMtLjUtLjUtMS4wNjMtLjkzOC0xLjY4OC0xLjI1UzExLjY4NyAyIDExIDJhNS4xNyA1LjE3IDAgMCAwLTMgLjkzOGMtLjg3NS42MjQtMS41IDEuNS0xLjgxMyAyLjVjLS43NS4xODctMS4zNzUuNS0yIC44NzVjLS41NjIuNDM3LTEgMS0xLjM3NSAxLjU2MmMtLjU2Mi45MzgtLjc1IDItLjYyNSAzLjA2M2E1LjQ0IDUuNDQgMCAwIDAgMS4yNSAyLjg3NGE0LjcgNC43IDAgMCAwLS4yNSAyLjA2M2MuMDYzLjY4OC4zMTMgMS4zNzUuNjI1IDJjLjU2My45MzggMS4zNzUgMS42ODggMi4zMTMgMi4xMjVjMSAuNDM4IDIuMDYyLjU2MyAzLjEyNS4zMTNjLjUuNSAxLjA2Mi45MzcgMS42ODcgMS4yNVMxMi4zMTIgMjIgMTMgMjJhNS4xNyA1LjE3IDAgMCAwIDMtLjkzN2MuODc1LS42MjUgMS41LTEuNSAxLjgxMi0yLjVhNC41NCA0LjU0IDAgMCAwIDEuOTM4LS44NzVjLjU2Mi0uNDM4IDEuMDYyLS45MzggMS4zNzUtMS41NjNjLjU2Mi0uOTM3Ljc1LTIgLjYyNS0zLjA2MmMtLjEyNS0xLjA2My0uNS0yLjA2My0xLjE4OC0yLjg3Nm0tNy41IDEwLjVjLTEgMC0xLjc1LS4zMTMtMi40MzctLjg3NWMwIDAgLjA2Mi0uMDYzLjEyNS0uMDYzbDQtMi4zMTJhLjUuNSAwIDAgMCAuMjUtLjI1YS41Ny41NyAwIDAgMCAuMDYyLS4zMTNWMTEuMjVsMS42ODggMXY0LjYyNWEzLjY4NSAzLjY4NSAwIDAgMS0zLjY4OCAzLjgxM001IDE3LjI1Yy0uNDM4LS43NS0uNjI1LTEuNjI1LS40MzgtMi41YzAgMCAuMDYzLjA2My4xMjUuMDYzbDQgMi4zMTJhLjU2LjU2IDAgMCAwIC4zMTMuMDYzYy4xMjUgMCAuMjUgMCAuMzEyLS4wNjNsNC44NzUtMi44MTJ2MS45MzdsLTQuMDYyIDIuMzc1QTMuNyAzLjcgMCAwIDEgNy4zMTIgMTljLTEtLjI1LTEuODEyLS44NzUtMi4zMTItMS43NU0zLjkzNyA4LjU2M2EzLjggMy44IDAgMCAxIDEuOTM4LTEuNjI2djQuNzUxYzAgLjEyNCAwIC4yNS4wNjIuMzEyYS41LjUgMCAwIDAgLjI1LjI1bDQuODc1IDIuODEzbC0xLjY4NyAxbC00LTIuMzEzYTMuNyAzLjcgMCAwIDEtMS43NS0yLjI1Yy0uMjUtLjkzNy0uMTg4LTIuMDYyLjMxMi0yLjkzN00xNy43NSAxMS43NWwtNC44NzUtMi44MTJsMS42ODctMWw0IDIuMzEyYy42MjUuMzc1IDEuMTI1Ljg3NSAxLjQzOCAxLjVzLjUgMS4zMTMuNDM3IDIuMDYzYTMuNyAzLjcgMCAwIDEtLjc1IDEuOTM3Yy0uNDM3LjU2My0xIDEtMS42ODcgMS4yNXYtNC43NWMwLS4xMjUgMC0uMjUtLjA2My0uMzEyYzAgMC0uMDYyLS4xMjYtLjE4Ny0uMTg4bTEuNjg3LTIuNXMtLjA2Mi0uMDYyLS4xMjUtLjA2MmwtNC0yLjMxM2MtLjEyNS0uMDYyLS4xODctLjA2Mi0uMzEyLS4wNjJzLS4yNSAwLS4zMTMuMDYyTDkuODEyIDkuNjg4VjcuNzVsNC4wNjMtMi4zNzVjLjYyNS0uMzc1IDEuMzEyLS41IDIuMDYyLS41Yy42ODggMCAxLjM3NS4yNSAyIC42ODhjLjU2My40MzcgMS4wNjMgMSAxLjMxMyAxLjYyNXMuMzEyIDEuMzc1LjE4NyAyLjA2Mm0tMTAuNSAzLjVsLTEuNjg3LTFWNy4wNjNjMC0uNjg4LjE4Ny0xLjQzOC41NjItMkM4LjE4NyA0LjQzOCA4Ljc1IDQgOS4zNzUgMy42ODhhMy4zNyAzLjM3IDAgMCAxIDIuMDYyLS4zMTNjLjY4OC4wNjMgMS4zNzUuMzc1IDEuOTM4LjgxM2MwIDAtLjA2My4wNjItLjEyNS4wNjJsLTQgMi4zMTNhLjUuNSAwIDAgMC0uMjUuMjVjLS4wNjMuMTI1LS4wNjMuMTg3LS4wNjMuMzEyem0uODc1LTJMMTIgOS41bDIuMTg3IDEuMjV2Mi41TDEyIDE0LjVsLTIuMTg4LTEuMjV6Ii8%2BPC9zdmc%2B&logoColor=white" alt="Add to ChatGPT"></a>
+      <a href="https://chatgpt.com/plugins"><img src="assets/badges/add-to-chatgpt.svg" alt="Add to ChatGPT"></a>
       <br><sub>Plugins → <b>+</b> → Add custom MCP server,<br>then paste the address.</sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://cursor.com/en/install-mcp?name=whiteboard-animation&config=eyJ1cmwiOiJodHRwczovL21jcC53aGl0ZWJvYXJkYW5pbWF0aW9uLmFpL21jcCJ9"><img src="https://img.shields.io/badge/Add%20to%20Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Add to Cursor"></a>
+      <a href="https://cursor.com/en/install-mcp?name=whiteboard-animation&config=eyJ1cmwiOiJodHRwczovL21jcC53aGl0ZWJvYXJkYW5pbWF0aW9uLmFpL21jcCJ9"><img src="assets/badges/add-to-cursor.svg" alt="Add to Cursor"></a>
       <br><sub>Installs into Cursor;<br>sign in from Settings → MCP.</sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://vscode.dev/redirect/mcp/install?name=whiteboard-animation&config=%7B%22type%22%3A%22http%22%2C%22url%22%3A%22https%3A%2F%2Fmcp.whiteboardanimation.ai%2Fmcp%22%7D"><img src="https://img.shields.io/badge/Add%20to%20VS%20Code-0098FF?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0iI2ZmZmZmZiI%2BPHBhdGggZD0iTTE1LjQzNCAxLjcyOUwxMi4xNC4xNDVhMSAxIDAgMCAwLS40MzEtLjA5OGMtLjM1NiAwLS41MjkuMTY1LS41NTQuMTgyYS43LjcgMCAwIDAtLjE1MS4xMWwtNi4zMDYgNS43NWwtMi43NDctMi4wODRhLjY2NC42NjQgMCAwIDAtLjg1MS4wMzhsLS44ODEuOGEuNjY1LjY2NSAwIDAgMC0uMDAxLjk4NkwyLjYgOEwuMjE3IDEwLjE3YS42NjUuNjY1IDAgMCAwIC4wMDEuOTg1bC44ODEuODAyYS42NjUuNjY1IDAgMCAwIC44NTEuMDM4bDIuNzQ3LTIuMDg0bDYuMzA2IDUuNzVzLjA2OS4wNjguMTUyLjExYy4wMjQuMDE3LjE5OC4xOC41NTQuMThhMSAxIDAgMCAwIC40MzItLjA5N2wzLjI5NC0xLjU4NGExIDEgMCAwIDAgLjU2Ni0uOTAxVjIuNjI5YTEgMSAwIDAgMC0uNTY2LS45MDF6bS04LjIxNyA2LjI3bDQuNzg1LTMuNjN2Ny4yNnoiLz48L3N2Zz4%3D&logoColor=white" alt="Add to VS Code"></a>
+      <a href="https://vscode.dev/redirect/mcp/install?name=whiteboard-animation&config=%7B%22type%22%3A%22http%22%2C%22url%22%3A%22https%3A%2F%2Fmcp.whiteboardanimation.ai%2Fmcp%22%7D"><img src="assets/badges/add-to-vs-code.svg" alt="Add to VS Code"></a>
       <br><sub>Or <a href="https://insiders.vscode.dev/redirect/mcp/install?name=whiteboard-animation&config=%7B%22type%22%3A%22http%22%2C%22url%22%3A%22https%3A%2F%2Fmcp.whiteboardanimation.ai%2Fmcp%22%7D">VS Code Insiders</a>.<br>Start it and sign in.</sub>
     </td>
   </tr>
