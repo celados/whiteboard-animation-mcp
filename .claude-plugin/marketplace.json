@@ -1,0 +1,24 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "whiteboard-animation",
+  "description": "Whiteboard Animation plugin for Claude Code",
+  "owner": {
+    "name": "WhiteboardAnimation.ai",
+    "email": "hello@whiteboardanimation.ai"
+  },
+  "plugins": [
+    {
+      "name": "whiteboard-animation",
+      "displayName": "Whiteboard Animation",
+      "description": "The Whiteboard Animation MCP server and a skill that turns pictures into hand-drawn whiteboard animation videos.",
+      "version": "1.0.0",
+      "author": {
+        "name": "WhiteboardAnimation.ai",
+        "email": "hello@whiteboardanimation.ai"
+      },
+      "source": "./",
+      "category": "media",
+      "homepage": "https://github.com/celados/whiteboard-animation-mcp"
+    }
+  ]
+}

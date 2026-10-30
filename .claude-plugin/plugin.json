@@ -1,0 +1,25 @@
+{
+  "name": "whiteboard-animation",
+  "displayName": "Whiteboard Animation",
+  "version": "1.0.0",
+  "description": "The Whiteboard Animation MCP server and a skill that turns pictures into hand-drawn whiteboard animation videos.",
+  "author": {
+    "name": "WhiteboardAnimation.ai",
+    "url": "https://whiteboardanimation.ai",
+    "email": "hello@whiteboardanimation.ai"
+  },
+  "homepage": "https://whiteboardanimation.ai/mcp",
+  "repository": "https://github.com/celados/whiteboard-animation-mcp",
+  "license": "MIT",
+  "privacyPolicyUrl": "https://whiteboardanimation.ai/privacy",
+  "keywords": [
+    "whiteboard-animation",
+    "mcp",
+    "video",
+    "animation",
+    "drawing",
+    "image-to-video"
+  ],
+  "mcpServers": "./.mcp.json",
+  "skills": "./skills/"
+}

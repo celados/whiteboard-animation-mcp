@@ -1,0 +1,13 @@
+{
+  "name": "whiteboard-animation",
+  "version": "1.0.0",
+  "description": "Turn any picture into a hand-drawn whiteboard animation video, from your AI assistant.",
+  "mcpServers": {
+    "whiteboard-animation": {
+      "httpUrl": "https://mcp.whiteboardanimation.ai/mcp",
+      "oauth": {
+        "enabled": true
+      }
+    }
+  }
+}
