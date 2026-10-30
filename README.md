@@ -37,19 +37,19 @@ The server is hosted at **`https://mcp.whiteboardanimation.ai/mcp`**. There is n
   <tr>
     <td align="center" width="25%">
       <a href="https://claude.ai/customize/connectors?modal=add-custom-connector&connectorName=Whiteboard%20Animation&connectorUrl=https%3A%2F%2Fmcp.whiteboardanimation.ai%2Fmcp"><img src="assets/badges/add-to-claude.svg" alt="Add to Claude"></a>
-      <br><sub>Claude on the web and desktop.<br>Fills in the custom connector.</sub>
+      <br><sub>Web and desktop</sub>
     </td>
     <td align="center" width="25%">
       <a href="https://chatgpt.com/plugins"><img src="assets/badges/add-to-chatgpt.svg" alt="Add to ChatGPT"></a>
-      <br><sub>Plugins → <b>+</b> → Add custom MCP server,<br>then paste the address.</sub>
+      <br><sub>Plugins → <b>+</b> → custom MCP server</sub>
     </td>
     <td align="center" width="25%">
       <a href="https://cursor.com/en/install-mcp?name=whiteboard-animation&config=eyJ1cmwiOiJodHRwczovL21jcC53aGl0ZWJvYXJkYW5pbWF0aW9uLmFpL21jcCJ9"><img src="assets/badges/add-to-cursor.svg" alt="Add to Cursor"></a>
-      <br><sub>Installs into Cursor;<br>sign in from Settings → MCP.</sub>
+      <br><sub>Sign in from Settings → MCP</sub>
     </td>
     <td align="center" width="25%">
       <a href="https://vscode.dev/redirect/mcp/install?name=whiteboard-animation&config=%7B%22type%22%3A%22http%22%2C%22url%22%3A%22https%3A%2F%2Fmcp.whiteboardanimation.ai%2Fmcp%22%7D"><img src="assets/badges/add-to-vs-code.svg" alt="Add to VS Code"></a>
-      <br><sub>Or <a href="https://insiders.vscode.dev/redirect/mcp/install?name=whiteboard-animation&config=%7B%22type%22%3A%22http%22%2C%22url%22%3A%22https%3A%2F%2Fmcp.whiteboardanimation.ai%2Fmcp%22%7D">VS Code Insiders</a>.<br>Start it and sign in.</sub>
+      <br><sub>Or <a href="https://insiders.vscode.dev/redirect/mcp/install?name=whiteboard-animation&config=%7B%22type%22%3A%22http%22%2C%22url%22%3A%22https%3A%2F%2Fmcp.whiteboardanimation.ai%2Fmcp%22%7D">VS Code Insiders</a></sub>
     </td>
   </tr>
 </table>
