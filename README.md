@@ -222,6 +222,9 @@ Only `create_upload` and `create_drawing` write anything; nothing deletes. In Cl
 
 ## FAQ
 
+**Can it make an AI speedpaint video?**
+Yes. A speedpaint (speed paint) video is the same hand-drawn reveal: hand your assistant a finished picture and ask it to draw it. It sketches the lines, then colours them in, with the hand you choose.
+
 **Do I need an API key?**
 No. You sign in once with your WhiteboardAnimation.ai account (OAuth 2.1) and the client keeps you signed in. Disconnect the connector to stop it.
 
